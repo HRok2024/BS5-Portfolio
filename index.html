@@ -10,9 +10,14 @@
     <script src="js/bootstrap.bundle.min.js"></script>
 
     <title>Portfolio Website</title>
-    <style></style>
+    <style>
+      .active {
+        color: tomato !important;
+      }
+    </style>
   </head>
-  <body>
+  <body data-bs-spy="scroll" data-bs-target="#nav-scroll">
+    <!-- nav의 it와 nav target의 id와 같아야한다 -->
     <!-- 네비게이션바 시작-->
     <nav
       class="navbar navbar-expand-md navbar-light bg-light fixed-top"
