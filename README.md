@@ -13,4 +13,4 @@
 - 깃허브페이지 사용해서 배포함
 
 포트폴리오 웹사이트
-[배포](https://hrok2024.github.io/git/)
+[배포](https://hrok2024.github.io/BS5-Portfolio/)
